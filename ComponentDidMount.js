@@ -15,4 +15,5 @@ class Counter extends React.Component {
             </div>; } }
              const el = <Counter />;
 
- ReactDOM.render( el, document.getElementById('root') );
+
+ // only componetDidMount 
